@@ -1,0 +1,1 @@
+function darkmode() {document.querySelector("body").classList.toggle("dark")}
